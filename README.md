@@ -42,7 +42,7 @@ In conclusion, the Attire Shop repository is a comprehensive collection of HTML,
 
 
 ### Design Demo<br><br>
-![GUI for this Project](\images\demo.png)
+![GUI for this Project](/images/complete_demo.png)
 
 
 <br><br>
